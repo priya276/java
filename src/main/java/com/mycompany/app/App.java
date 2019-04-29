@@ -3,7 +3,7 @@
 /**
  * Hello world!
  */
-public class App
+ class App
 {
 
     private final String message = "Hello World!";
