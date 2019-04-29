@@ -17,5 +17,5 @@
     private final String getMessage() {
         return message;
     }
-
+ }
 
